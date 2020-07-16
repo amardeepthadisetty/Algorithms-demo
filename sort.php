@@ -24,7 +24,7 @@ function sortit($arr, $n)
 // Driver code 
 $arr = array(10, 9, 2, 8, 3, 5, 4, 6, 1); 
 $n = count($arr); 
-echo "<br>".$n."<br>";
+//echo "<br>".$n."<br>";
   
 // for sort an array 
 $sorted_array = sortit($arr, $n); 
